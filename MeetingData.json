@@ -1,0 +1,47 @@
+{
+  "meetings" : [ {
+    "id" : "d84a4821-7a97-45a0-8a61-6ff066271440",
+    "name" : "string",
+    "responsiblePerson" : {
+      "id" : "string",
+      "firstName" : "string",
+      "lastName" : "string",
+      "email" : "string",
+      "addedToMeetingAt" : [ 2023, 5, 17, 12, 48 ]
+    },
+    "attendees" : [ {
+      "id" : "string",
+      "firstName" : "string",
+      "lastName" : "string",
+      "email" : "string",
+      "addedToMeetingAt" : [ 2023, 5, 17, 12, 48 ]
+    } ],
+    "description" : "string",
+    "category" : "CodeMonkey",
+    "type" : "Live",
+    "startDate" : [ 2023, 5, 17, 12, 48 ],
+    "endDate" : [ 2023, 6, 17, 12, 48 ]
+  }, {
+    "id" : "1be07697-f3f4-4491-9fd7-2bc16fb3cc18",
+    "name" : "Other meeting",
+    "responsiblePerson" : {
+      "id" : "54321",
+      "firstName" : "Jonas",
+      "lastName" : "Jonaitis",
+      "email" : "jonas@mail.com",
+      "addedToMeetingAt" : [ 2023, 5, 16, 20, 54 ]
+    },
+    "attendees" : [ {
+      "id" : "75342",
+      "firstName" : "Petras",
+      "lastName" : "Petraitis",
+      "email" : "petras@mail.com",
+      "addedToMeetingAt" : [ 2023, 5, 16, 20, 54 ]
+    } ],
+    "description" : "a meeting about something",
+    "category" : "CodeMonkey",
+    "type" : "Live",
+    "startDate" : [ 2023, 5, 16, 20, 54 ],
+    "endDate" : [ 2023, 5, 16, 21, 54 ]
+  } ]
+}
